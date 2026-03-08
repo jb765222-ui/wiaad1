@@ -1,0 +1,133 @@
+{
+  "startingSeason": 2026,
+  "gameAttributes": {
+    "numGames": 24,
+    "confs": [
+      {"cid": 0, "name": "Big 8 Conference"},
+      {"cid": 1, "name": "Fox Valley Association"},
+      {"cid": 2, "name": "Greater Metro Conference"},
+      {"cid": 3, "name": "Classic 8 Conference"}
+    ],
+    "divs": [
+      {"did": 0, "cid": 0, "name": "D1 Sectional 1"},
+      {"did": 1, "cid": 1, "name": "D1 Sectional 2"},
+      {"did": 2, "cid": 2, "name": "D1 Sectional 3"},
+      {"did": 3, "cid": 3, "name": "D1 Sectional 4"}
+    ],
+    "draftAges": [14, 15],
+    "minAge": 14,
+    "maxAge": 19,
+    "salaryCap": 0,
+    "minRosterSize": 5,
+    "maxRosterSize": 15,
+    "rookieTerm": 4
+  },{
+  "startingSeason": 2026,
+  "gameAttributes": {
+    "numGames": 24,
+    "confs": [
+      {"cid": 0, "name": "Big 8 Conference"},
+      {"cid": 1, "name": "Fox Valley Association"},
+      {"cid": 2, "name": "Greater Metro Conference"},
+      {"cid": 3, "name": "Classic 8 Conference"}
+    ],
+    "divs": [
+      {"did": 0, "cid": 0, "name": "D1 Sectional 1"},
+      {"did": 1, "cid": 1, "name": "D1 Sectional 2"},
+      {"did": 2, "cid": 2, "name": "D1 Sectional 3"},
+      {"did": 3, "cid": 3, "name": "D1 Sectional 4"}
+    ],
+    "draftAges": [14, 15],
+    "minAge": 14,
+    "maxAge": 19,
+    "salaryCap": 0,
+    "minRosterSize": 5,
+    "maxRosterSize": 15,
+    "rookieTerm": 4
+  },{
+  "startingSeason": 2026,
+  "gameAttributes": {
+    "numGames": 24,
+    "confs": [
+      {"cid": 0, "name": "Big 8 Conference"},
+      {"cid": 1, "name": "Fox Valley Association"},
+      {"cid": 2, "name": "Greater Metro Conference"},
+      {"cid": 3, "name": "Milwaukee City Conference"}
+    ],
+    "divs": [
+      {"did": 0, "cid": 3, "name": "MCC - Gold"},
+      {"did": 1, "cid": 3, "name": "MCC - Blue"},
+      {"did": 2, "cid": 3, "name": "MCC - White"}
+    ],
+    "draftAges": [14, 15],
+    "minAge": 14,
+    "maxAge": 19,
+    "salaryCap": 0,
+    "minRosterSize": 5,
+    "maxRosterSize": 15,
+    "rookieTerm": 4
+  },"teams": [
+    /* MCC - GOLD (The "Power" Division) */
+    {"tid": 32, "cid": 3, "did": 0, "region": "Milwaukee King", "name": "Generals", "abbrev": "MKIN", "colors": ["#CC0000", "#FFCC00", "#000000"], "imgURL": "https://www.wissports.net/schools/milwaukeeking/logo"},
+    {"tid": 33, "cid": 3, "did": 0, "region": "Milwaukee Washington", "name": "Purgolders", "abbrev": "MWAS", "colors": ["#4B0082", "#FFCC00", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/milwaukeewashington/logo"},
+    {"tid": 34, "cid": 3, "did": 0, "region": "Milwaukee Hamilton", "name": "Wildcats", "abbrev": "MHAM", "colors": ["#006633", "#FFFFFF", "#000000"], "imgURL": "https://www.wissports.net/schools/milwaukeehamilton/logo"},
+    {"tid": 35, "cid": 3, "did": 0, "region": "Milwaukee Riverside", "name": "Tigers", "abbrev": "MRIV", "colors": ["#FF6600", "#000000", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/milwaukeeriverside/logo"},
+    {"tid": 36, "cid": 3, "did": 0, "region": "Milwaukee Bradley Tech", "name": "Trojans", "abbrev": "MBRA", "colors": ["#CC0000", "#000000", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/milwaukeebradleytech/logo"},
+    
+    /* MCC - BLUE */
+    {"tid": 37, "cid": 3, "did": 1, "region": "Milwaukee Reagan", "name": "Huskies", "abbrev": "MREA", "colors": ["#003366", "#FFFFFF", "#000000"], "imgURL": "https://www.wissports.net/schools/milwaukeereagan/logo"},
+    {"tid": 38, "cid": 3, "did": 1, "region": "Golda Meir", "name": "Owls", "abbrev": "GMEI", "colors": ["#000080", "#C0C0C0", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/goldameir/logo"},
+    {"tid": 39, "cid": 3, "did": 1, "region": "Milwaukee School of Languages", "name": "Hawks", "abbrev": "MSL", "colors": ["#0033A0", "#FFFFFF", "#000000"], "imgURL": "https://www.wissports.net/schools/milwaukeeschooloflanguages/logo"},
+    {"tid": 40, "cid": 3, "did": 1, "region": "Milwaukee Marshall", "name": "Eagles", "abbrev": "MMAR", "colors": ["#000080", "#FFCC00", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/milwaukeemarshall/logo"},
+    
+    /* MCC - WHITE */
+    {"tid": 41, "cid": 3, "did": 2, "region": "Milwaukee Bay View", "name": "Redcats", "abbrev": "MBV", "colors": ["#CC0000", "#000000", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/milwaukeebayview/logo"},
+    {"tid": 42, "cid": 3, "did": 2, "region": "Milwaukee Vincent", "name": "Vikings", "abbrev": "MVIN", "colors": ["#003366", "#FFCC00", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/milwaukeevincent/logo"},
+    {"tid": 43, "cid": 3, "did": 2, "region": "Milwaukee South", "name": "Cardinals", "abbrev": "MSOU", "colors": ["#CC0000", "#FFFFFF", "#000000"], "imgURL": "https://www.wissports.net/schools/milwaukeesouth/logo"},
+    {"tid": 44, "cid": 3, "did": 2, "region": "Milwaukee Pulaski", "name": "Rams", "abbrev": "MPUL", "colors": ["#000080", "#FFCC00", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/milwaukeepulaski/logo"}
+  ],
+  "players": []
+}"confs": [
+  {"cid": 0, "name": "Big 8 Conference"},
+  {"cid": 1, "name": "Fox Valley Association"},
+  {"cid": 2, "name": "Greater Metro Conference"},
+  {"cid": 3, "name": "Milwaukee City Conference"},
+  {"cid": 4, "name": "Woodland Conference"},
+  {"cid": 5, "name": "Midwest Classic Conference"}
+],
+"divs": [
+  {"did": 3, "cid": 4, "name": "Woodland - East"},
+  {"did": 4, "cid": 4, "name": "Woodland - West"},
+  {"did": 5, "cid": 5, "name": "Midwest Classic"}
+],"teams": [
+    /* WOODLAND - EAST (DID: 3) */
+    {"tid": 45, "cid": 4, "did": 3, "region": "Whitnall", "name": "Falcons", "abbrev": "WHIT", "colors": ["#000080", "#FFCC00", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/whitnall/logo"},
+    {"tid": 46, "cid": 4, "did": 3, "region": "Greenfield", "name": "Hustlin' Hawks", "abbrev": "GFILD", "colors": ["#003366", "#FFCC00", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/greenfield/logo"},
+    {"tid": 47, "cid": 4, "did": 3, "region": "Brown Deer", "name": "Falcons", "abbrev": "BDEER", "colors": ["#000000", "#CC0000", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/browndeer/logo"},
+    {"tid": 48, "cid": 4, "did": 3, "region": "Milwaukee Lutheran", "name": "Red Knights", "abbrev": "MLUTH", "colors": ["#CC0000", "#000000", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/milwaukeelutheran/logo"},
+    {"tid": 49, "cid": 4, "did": 3, "region": "Shorewood", "name": "Greyhounds", "abbrev": "SWOOD", "colors": ["#0033A0", "#FFFFFF", "#000000"], "imgURL": "https://www.wissports.net/schools/shorewood/logo"},
+    {"tid": 50, "cid": 4, "did": 3, "region": "South Milwaukee", "name": "Rockets", "abbrev": "SMILW", "colors": ["#CC0000", "#FFFFFF", "#000000"], "imgURL": "https://www.wissports.net/schools/southmilwaukee/logo"},
+    {"tid": 51, "cid": 4, "did": 3, "region": "Cudahy", "name": "Packers", "abbrev": "CUDA", "colors": ["#004d00", "#FFCC00", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/cudahy/logo"},
+
+    /* WOODLAND - WEST (DID: 4) */
+    {"tid": 52, "cid": 4, "did": 4, "region": "Wisconsin Lutheran", "name": "Vikings", "abbrev": "WLUTH", "colors": ["#003366", "#FFCC00", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/wisconsinlutheran/logo"},
+    {"tid": 53, "cid": 4, "did": 4, "region": "Pewaukee", "name": "Pirates", "abbrev": "PEW", "colors": ["#CC0000", "#000000", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/pewaukee/logo"},
+    {"tid": 54, "cid": 4, "did": 4, "region": "New Berlin West", "name": "Vikings", "abbrev": "NBW", "colors": ["#0033A0", "#C0C0C0", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/newberlinwest/logo"},
+    {"tid": 55, "cid": 4, "did": 4, "region": "New Berlin Eisenhower", "name": "Lions", "abbrev": "NBE", "colors": ["#4B0082", "#FFCC00", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/newberlineisenhower/logo"},
+    {"tid": 56, "cid": 4, "did": 4, "region": "Greendale", "name": "Panthers", "abbrev": "GDALE", "colors": ["#006633", "#FFFFFF", "#000000"], "imgURL": "https://www.wissports.net/schools/greendale/logo"},
+    {"tid": 57, "cid": 4, "did": 4, "region": "Pius XI Catholic", "name": "Popes", "abbrev": "PIUS", "colors": ["#000080", "#FFFFFF", "#000000"], "imgURL": "https://www.wissports.net/schools/piusxicatholic/logo"},
+    {"tid": 58, "cid": 4, "did": 4, "region": "West Allis Central", "name": "Bulldogs", "abbrev": "WAC", "colors": ["#FF6600", "#000000", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/westalliscentral/logo"},
+
+    /* MIDWEST CLASSIC (DID: 5) */
+    {"tid": 59, "cid": 5, "did": 5, "region": "Lake Country Lutheran", "name": "Lightning", "abbrev": "LCL", "colors": ["#003366", "#CC0000", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/lakecountrylutheran/logo"},
+    {"tid": 60, "cid": 5, "did": 5, "region": "Brookfield Academy", "name": "Blue Knights", "abbrev": "BA", "colors": ["#0000FF", "#FFFFFF", "#C0C0C0"], "imgURL": "https://www.wissports.net/schools/brookfieldacademy/logo"},
+    {"tid": 61, "cid": 5, "did": 5, "region": "University School of Milw.", "name": "Wildcats", "abbrev": "USM", "colors": ["#000080", "#FFFFFF", "#000000"], "imgURL": "https://www.wissports.net/schools/universityschoolofmilwaukee/logo"},
+    {"tid": 62, "cid": 5, "did": 5, "region": "Heritage Christian", "name": "Patriots", "abbrev": "HERI", "colors": ["#CC0000", "#003366", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/heritagechristian/logo"},
+    {"tid": 63, "cid": 5, "did": 5, "region": "Living Word Lutheran", "name": "Timberwolves", "abbrev": "LWL", "colors": ["#000000", "#808080", "#006633"], "imgURL": "https://www.wissports.net/schools/livingwordlutheran/logo"},
+    {"tid": 64, "cid": 5, "did": 5, "region": "Messmer", "name": "Bishops", "abbrev": "MESS", "colors": ["#0033A0", "#FFFFFF", "#000000"], "imgURL": "https://www.wissports.net/schools/messmer/logo"},
+    {"tid": 65, "cid": 5, "did": 5, "region": "St. Francis", "name": "Mariners", "abbrev": "STF", "colors": ["#000080", "#FFCC00", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/stfrancis/logo"},
+    {"tid": 66, "cid": 5, "did": 5, "region": "Kingdom Prep Lutheran", "name": "Wolfpack", "abbrev": "KPL", "colors": ["#000000", "#C0C0C0", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/kingdompreplutheran/logo"},
+    {"tid": 67, "cid": 5, "did": 5, "region": "Luther Prep", "name": "Phoenix", "abbrev": "LPREP", "colors": ["#CC0000", "#000000", "#FFFFFF"], "imgURL": "https://www.wissports.net/schools/lutherprep/logo"}
+  ],
+  "players": []
+}
